@@ -1,0 +1,1 @@
+start cmd.exe /k "py pubSuhu2.py"
